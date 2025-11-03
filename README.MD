@@ -1,5 +1,5 @@
 
-# Hi there, I'm Rajiv Shrestha 👋
+# Hi there, I'm Rajiv 👋
 
 ## 🛡️ Cybersecurity & Ethical Hacking Enthusiast
 
