@@ -11,6 +11,7 @@ I'm a passionate cybersecurity learner and developer from Kathmandu, Nepal, curr
 - **Ethical Hacking** - Building skills in vulnerability assessment and security auditing  
 - **Linux & Bash** - Mastering command-line tools and scripting for security operations  
 - **Web Application Security** - Understanding common vulnerabilities and secure coding practices  
+- **OWASP Top 10** - Studying the top 10 most critical web application security risks  
 
 ### 💻 Tech Stack
 
@@ -45,6 +46,7 @@ I'm a passionate cybersecurity learner and developer from Kathmandu, Nepal, curr
 - 🔍 Completing security challenges on **TryHackMe**  
 - 🌐 Building secure web applications  
 - 📚 Studying networking fundamentals and cybersecurity best practices  
+- 🔐 Learning and practicing **OWASP Top 10 vulnerabilities**  
 - 🤝 Collaborating on innovative projects through hackathons  
 
 ### 📫 Let's Connect!
