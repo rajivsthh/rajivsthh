@@ -11,7 +11,7 @@ I'm a passionate cybersecurity learner and developer from Kathmandu, Nepal, curr
 - **Ethical Hacking** - Building skills in vulnerability assessment and security auditing
 - **Linux & Bash** - Mastering command-line tools and scripting for security operations
 - **Web Application Security** - Understanding common vulnerabilities and secure coding practices
-_ 🌐 Networking — Understanding OSI model, TCP/IP, routers, switches, firewalls, and packet analysis
+- ** Networking** — Understanding OSI model, TCP/IP, routers, switches, firewalls, and packet analysis
 
 ### 💻 Tech Stack
 
