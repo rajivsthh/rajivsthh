@@ -41,7 +41,7 @@ I'm a passionate cybersecurity learner and developer from Kathmandu, Nepal, curr
 
 I'm always interested in collaborating on security projects, hackathons, or just discussing the latest in cybersecurity!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajiv-shrestha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajiv-shrestha-712b2630a/)
 
 ---
 
