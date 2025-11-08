@@ -40,6 +40,7 @@ I'm a passionate cybersecurity learner and developer from Kathmandu, Nepal, curr
 
 - **KIST College Hackathon**  
   - Developed **SEEKHA NEPAL** - A platform helping students discover their interests and learn through interactive demos  
+  - Check out our project →](https://seekhanepal.vercel.app/)
 
 ### 🎯 Current Focus
 
