@@ -29,7 +29,7 @@ I'm a passionate cybersecurity learner and developer from Kathmandu, Nepal, curr
 ![Nmap](https://img.shields.io/badge/Nmap-004B87?style=flat&logo=nmap&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=burp-suite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-6E5494?style=flat&logo=metasploit&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)
+
 
 ### 🏆 Hackathon Highlights
 
