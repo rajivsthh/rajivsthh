@@ -20,8 +20,17 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-6E5494?style=flat&logo=metasploit&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) 
+### 🔥 Open-Source Contribution
+#🛡️ Contributor to the SAFE-MCP Security Framework
+
+I contribute to SAFE-MCP, an open-source security framework for the Model Context Protocol (MCP).
+My work includes improving security technique documentation, enhancing detection rules, and contributing to the framework’s development.
+
+🔗 SAFE-MCP Repository:
+-https://github.com/SAFE-MCP/safe-mcp
+
 ### 🏆 Hackathon Highlights 
-- **100xNepal Hackathon 2025** 
+**100xNepal Hackathon 2025** 
 - Team Control Bits 
 - Built **Form Mitra Smart (SarkarSevaSaathi)** - A web application helping citizens fill government forms correctly 
 - Collaborated with an amazing team to create a working GovTech solution - [Check out our project →](https://lnkd.in/d6R67JBq) - 
