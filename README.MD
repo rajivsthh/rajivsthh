@@ -5,17 +5,17 @@ I'm a passionate cybersecurity learner and developer from Kathmandu, Nepal, curr
 
 🔐 What I'm Learning
 
-Cybersecurity Fundamentals – Networking, penetration testing, secure systems
+Cybersecurity Fundamentals – Exploring networking, penetration testing, and security protocols
 
-Networking – TCP/IP, routing, DNS, firewall logic, packet analysis
+Networking – Understanding TCP/IP, DNS, firewalls, routing, and network defense
 
-Ethical Hacking – Vulnerability assessment, exploitation, security auditing
+Ethical Hacking – Building skills in vulnerability assessment and security auditing
 
-Linux & Bash – CLI tools, automation, scripting for security operations
+Linux & Bash – Mastering command-line tools and scripting for security operations
 
-Web Application Security – Vulnerability analysis & secure coding
+Web Application Security – Learning secure coding and vulnerability detection
 
-OWASP Top 10 – Deep dive into the most critical web app risks
+OWASP Top 10 – Studying the most critical web application risks
 
 💻 Tech Stack
 
@@ -41,60 +41,47 @@ OWASP Top 10 – Deep dive into the most critical web app risks
 
 
 
+🔥 Open-Source Contribution
+🛡️ Contributor to the SAFE-MCP Security Framework
+
+I contribute to SAFE-MCP, an open-source security framework for the Model Context Protocol (MCP).
+My work includes improving security technique documentation, enhancing detection rules, and contributing to the framework’s development.
+
+🔗 SAFE-MCP Repository:
+https://github.com/SAFE-MCP/safe-mcp
+
+
 🏆 Hackathon Highlights
-🥇 100xNepal Hackathon 2025 — Team Control Bits
+100xNepal Hackathon 2025 – Team Control Bits
 
-Built Form Mitra Smart (SarkarSevaSaathi)
+Built Form Mitra Smart (SarkarSevaSaathi) – a platform that helps citizens fill government forms correctly
 
-A web app helping citizens correctly fill government forms
+Delivered a working GovTech solution with an amazing team
 
-Fully functional GovTech solution
+🔗 Project: https://lnkd.in/d6R67JBq
 
-👉 Project: https://lnkd.in/d6R67JBq
+KIST College Hackathon
 
-🎓 KIST College Hackathon
+Developed SEEKHA NEPAL – a platform helping students explore interests via interactive demos
 
-Built SEEKHA NEPAL – A platform that helps students explore interests
+Includes AI chatbot, teacher enrollments, and learning modules
 
-Integrated AI Chatbot
-
-Teachers can enroll and manage content
-
-👉 Project: https://seekhanepal.vercel.app/
+🔗 Project: https://seekhanepal.vercel.app/
 
 🎯 Current Focus
 
-Completing security challenges on TryHackMe
+🔍 Completing cybersecurity labs on TryHackMe
 
-Building secure and scalable web applications
+🧪 Practicing OWASP Top 10 vulnerabilities
 
-Studying networking & cybersecurity fundamentals
+🌐 Building secure web applications
 
-Practicing OWASP Top 10 vulnerabilities
+📚 Strengthening Linux, networking, and ethical hacking skills
 
-Participating in hackathons and open-source projects
-
-🧩 Open-Source Contributions
-🛡️ Contributor to SAFE-MCP (Security & AI Framework for MCP Ecosystem)
-
-Contributed to:
-
-SAFE-T1006 Social Engineering Install
-
-Detection rules
-
-Metadata & documentation improvements
-
-Advanced attack techniques reference material
-
-📌 Project:
-https://github.com/SAFE-MCP/safe-mcp
-
-📌 My Pull Requests:
-https://github.com/SAFE-MCP/safe-mcp/pulls/rajivsthh
+🤝 Collaborating in open-source security projects
 
 📫 Let's Connect!
 
-I'm always open to collaborating on cybersecurity projects, hackathons, and open-source research.
+I'm always open to collaborating on cybersecurity projects, hackathons, or anything tech-related.
 
-"Started with Web. Currently enrolling in Cybersecurity!"
+“Started with Web. Currently enrolling in Cybersecurity!”
