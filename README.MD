@@ -1,5 +1,5 @@
 # Hi there, I'm Rajiv Shrestha👋
-## 🛡️ Cybersecurity & Ethical Hacking Enthusiast I'm a passionate cybersecurity learner and developer from Kathmandu, Nepal, currently diving deep into the world of ethical hacking, network security, and secure application development. 
+## 🛡️ Cybersecurity & Red Team focused I'm a passionate cybersecurity learner and developer from Kathmandu, Nepal, currently diving deep into the world of ethical hacking, network security, and secure application development. 
 ### 🔐 What I'm Learning - 
 - **Cybersecurity Fundamentals** - Exploring networking, penetration testing, and security protocols 
 - **Networking** - Learning how data flows across systems, understanding TCP/IP, DNS, firewalls, and network defense  
