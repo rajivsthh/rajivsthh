@@ -1,12 +1,12 @@
 # Hi there, I'm Rajiv Shrestha👋
 ## 🛡️ Cybersecurity & Ethical Hacking Enthusiast I'm a passionate cybersecurity learner and developer from Kathmandu, Nepal, currently diving deep into the world of ethical hacking, network security, and secure application development. 
 ### 🔐 What I'm Learning - 
-**Cybersecurity Fundamentals** - Exploring networking, penetration testing, and security protocols - 
-**Networking** - Learning how data flows across systems, understanding TCP/IP, DNS, firewalls, and network defense -
-**Ethical Hacking** - Building skills in vulnerability assessment and security auditing - 
-**Linux & Bash** - Mastering command-line tools and scripting for security operations - 
-**Web Application Security** - Understanding common vulnerabilities and secure coding practices - 
-**OWASP Top 10** - Studying the top 10 most critical web application security risks
+**Cybersecurity Fundamentals** - Exploring networking, penetration testing, and security protocols 
+-**Networking** - Learning how data flows across systems, understanding TCP/IP, DNS, firewalls, and network defense
+-**Ethical Hacking** - Building skills in vulnerability assessment and security auditing 
+-**Linux & Bash** - Mastering command-line tools and scripting for security operations 
+-**Web Application Security** - Understanding common vulnerabilities and secure coding practices 
+-**OWASP Top 10** - Studying the top 10 most critical web application security risks
 ### 💻 Tech Stack 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
