@@ -47,4 +47,4 @@ My work includes improving security technique documentation, enhancing detection
 - 🔐 Learning and practicing **OWASP Top 10 vulnerabilities** 
 - 🤝 Collaborating on innovative projects through hackathons
 ### 📫 Let's Connect! I'm always interested in collaborating on security projects, hackathons, or just discussing the latest in cybersecurity!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajiv-shrestha-712b2630a/) --- *"Started with Web. Currently enrolling in Cybersecurity!"* hey can you make in organised order
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajiv-shrestha-712b2630a/) --- *"Started with Web. Currently enrolling in Cybersecurity!"*
