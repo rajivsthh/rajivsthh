@@ -1,12 +1,7 @@
 # Hi there, I'm Rajiv Shrestha👋
-## 🛡️ Cybersecurity & Red Team focused 
-### 🔐 What I'm Learning - 
-- **Cybersecurity Fundamentals** - Exploring networking, penetration testing, and security protocols 
-- **Networking** - Learning how data flows across systems, understanding TCP/IP, DNS, firewalls, and network defense  
--**Ethical Hacking** - Building skills in vulnerability assessment and security auditing  
--**Linux & Bash** - Mastering command-line tools and scripting for security operations 
-- **Web Application Security** - Understanding common vulnerabilities and secure coding practices 
-- **OWASP Top 10** - Studying the top 10 most critical web application security risks
+##  Red Team focused 
+### About me  
+Passionate about cybersecurity with a strong focus on offensive security and red teaming. I enjoy understanding how real-world attacks work, building hands-on labs, and continuously improving my attacker mindset through practical learning and disciplined methodology.
 ### 💻 Tech Stack 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
