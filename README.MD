@@ -26,7 +26,6 @@ My work includes improving security technique documentation, enhancing detection
 
 ### 🏆 Hackathon Highlights 
 **100xNepal Hackathon 2025** 
-- Team Control Bits 
 - Built **Form Mitra Smart (SarkarSevaSaathi)** - A web application helping citizens fill government forms correctly 
 - Collaborated with an amazing team to create a working GovTech solution - [Check out our project →](https://lnkd.in/d6R67JBq) 
  
