@@ -33,7 +33,6 @@ My work includes improving security technique documentation, enhancing detection
 - Developed **SEEKHA NEPAL** 
 - A platform helping students discover their interests and learn through interactive demos 
 - Ai Chatbot 
-- Teachers can enroll 
 - Check out our project →](https://seekhanepal.vercel.app/) 
 ### 🎯 Current Focus 
 - 🔍 Completing security challenges on **TryHackMe** and **Portswigger**
