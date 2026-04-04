@@ -1,5 +1,5 @@
 # Rajiv Shrestha
-**Red Team · Security · Web Dev** — Kathmandu, NP
+**Red Team · Offensive Security · Web Dev** — Kathmandu, NP
 
 ---
 
@@ -32,16 +32,16 @@
 
 ## Hackathon Projects
 
-**SarkarSevaSaathi** — 🥇 100xNepal 2025  
+**SarkarSevaSaathi** — 🥇 100xNepal 2025 · [Live](https://100x-hackathon.vercel.app/)  
 GovTech platform helping citizens fill government forms correctly — smart guidance + workflow automation.
 
 **OSaaS** — SXC Sandbox 3.0  
 Open Security as a Service — isolated sandbox environments with AI-assisted vulnerability analysis.
 
-**Rent A Construction** — KEC Hack-a-Lite 3.0  
+**Rent A Construction** — KEC Hack-a-Lite 3.0 · [Live](https://5th-avenue-kec-hack-a-lite-3-o.vercel.app/)  
 Marketplace for renting idle construction equipment to reduce contractor costs.
 
-**Seekha Nepal** — KIST Hackathon · [seekhanepal.vercel.app](https://seekhanepal.vercel.app/)  
+**Seekha Nepal** — KIST Hackathon · [Live](https://seekhanepal.vercel.app/)  
 AI-powered interactive learning platform for career and academic guidance.
 
 ---
