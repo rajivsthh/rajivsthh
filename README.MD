@@ -1,5 +1,5 @@
 # Rajiv Shrestha
-**Red Team · Offensive Security · Web Dev** — Kathmandu, NP
+**Red Team  · Web Dev** — Kathmandu, NP
 
 ---
 
