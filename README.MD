@@ -66,7 +66,6 @@ AI-powered educational and career guidance platform.
 - Hackathon participant & builder
 - Active in security learning communities
 
-> If your name actually appears in an official NASA Hall of Fame or acknowledgment page, then yes — adding it here is completely fine and can strengthen your profile.
 
 ---
 
