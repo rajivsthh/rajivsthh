@@ -1,59 +1,90 @@
 # Rajiv Shrestha
-**Red Team  · Web Dev** — Kathmandu, NP
+
+`Red Team • Web Security • Full-Stack Development`
+
+Kathmandu, Nepal
 
 ---
 
-## Security Tools
+## About
 
-![Metasploit](https://img.shields.io/badge/Metasploit-6E5494?style=flat-square&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004B87?style=flat-square&logo=nmap&logoColor=white)
+Security-focused developer exploring:
+- Web application security
+- Red team methodologies
+- Recon & attack surface analysis
+- Secure full-stack development
+
+Currently learning through:
+- PortSwigger Web Security Academy
+- TryHackMe
+- Real-world bug bounty research
+- Open-source security tooling
+
+---
+
+## Security
+
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F36F24?style=flat-square&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![OWASP Top 10](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
-![PortSwigger](https://img.shields.io/badge/PortSwigger-FF6633?style=flat-square&logoColor=white)
-![SQLi/XSS](https://img.shields.io/badge/SQLi%20%2F%20XSS-CC0000?style=flat-square&logoColor=white)
-![Recon](https://img.shields.io/badge/Recon%20%26%20Enum-555555?style=flat-square&logoColor=white)
 
-## Dev Stack
+---
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+## Development
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ---
 
-## Hackathon Projects
+## Projects
 
-**SarkarSevaSaathi** — 🥇 100xNepal 2025 · [Live](https://100x-hackathon.vercel.app/)  
-GovTech platform helping citizens fill government forms correctly — smart guidance + workflow automation.
+### SAFE-MCP Contributions
+Security-focused MCP ecosystem exploration and contributions.
 
-**OSaaS** — SXC Sandbox 3.0  
-Open Security as a Service — isolated sandbox environments with AI-assisted vulnerability analysis.
+### OSaaS
+Open Security as a Service — sandboxed environments for AI-assisted vulnerability analysis.
 
-**Rent A Construction** — KEC Hack-a-Lite 3.0 · [Live](https://5th-avenue-kec-hack-a-lite-3-o.vercel.app/)  
-Marketplace for renting idle construction equipment to reduce contractor costs.
+### SarkarSevaSaathi
+GovTech workflow platform helping citizens correctly complete government processes.
 
-**Seekha Nepal** — KIST Hackathon · [Live](https://seekhanepal.vercel.app/)  
-AI-powered interactive learning platform for career and academic guidance.
-
----
-
-## Currently Focused On
-- Advanced red team methodologies
-- TryHackMe & PortSwigger labs
-- Secure full-stack development
-- [SAFE-MCP](https://github.com/SAFE-MCP/safe-mcp) open source contributions
+### Seekha Nepal
+AI-powered educational and career guidance platform.
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/rajiv-shrestha-712b2630a/)
+## Recognition
 
-*"Started with Web. Now mastering the attacker mindset."*
+- NASA Hall of Fame Recognition
+- Hackathon participant & builder
+- Active in security learning communities
+
+> If your name actually appears in an official NASA Hall of Fame or acknowledgment page, then yes — adding it here is completely fine and can strengthen your profile.
+
+---
+
+## Current Focus
+
+- Web application security
+- Advanced recon workflows
+- Authentication & session security
+- API security testing
+- Red team tooling
+
+---
+
+## Connect
+
+- GitHub: `github.com/yourusername`
+- LinkedIn: `linkedin.com/in/rajiv-shrestha-712b2630a`
+
+---
+
+> “Started with development. Now learning how attackers think.”
