@@ -1,6 +1,6 @@
 # Rajiv Shrestha
 
-`Red Team • Web Security • Full-Stack Development`
+`Security Researcher • Recon Tool Builder • Web Security • Full-Stack Developer`
 
 Kathmandu, Nepal
 
@@ -8,21 +8,23 @@ Kathmandu, Nepal
 
 ## About
 
-Security-focused developer exploring:
-- Web application security
-- Red team methodologies
-- Recon & attack surface analysis
-- Secure full-stack development
+Security-focused developer exploring and building real-world offensive security tooling.
+
+I focus on:
+- Web application security & bug bounty research
+- Recon automation & attack surface mapping
+- Security tool development (CLI-based workflows)
+- Secure full-stack system design
 
 Currently learning through:
 - PortSwigger Web Security Academy
 - TryHackMe
-- Real-world bug bounty research
-- Open-source security tooling
+- Real-world bug bounty programs (VDP/H1)
+- Building open-source security tools
 
 ---
 
-## Security
+## Security & Tools
 
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F36F24?style=flat-square&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square)
@@ -34,7 +36,7 @@ Currently learning through:
 
 ---
 
-## Development
+## Development Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -44,46 +46,70 @@ Currently learning through:
 
 ---
 
-## Projects
+## Security Projects
+
+### 🕵️ recon-agent (WIP)
+CLI-based reconnaissance automation tool for bug bounty workflows.
+
+Features:
+- Subdomain enumeration automation
+- Live host detection
+- Endpoint crawling
+- OS-aware scan modes
+- Interactive agent-like CLI workflow
+
+> Goal: reduce manual recon into a single intelligent command.
+
+---
 
 ### SAFE-MCP Contributions
-Security-focused MCP ecosystem exploration and contributions.
+Security-focused MCP ecosystem exploration and experimentation.
+
+---
+
+## Other Projects
 
 ### OSaaS
-Open Security as a Service — sandboxed environments for AI-assisted vulnerability analysis.
+Sandboxed environments for AI-assisted security analysis.
 
 ### SarkarSevaSaathi
-GovTech workflow platform helping citizens correctly complete government processes.
+GovTech workflow platform for simplifying citizen processes.
 
 ### Seekha Nepal
-AI-powered educational and career guidance platform.
+AI-powered education and career guidance platform.
+
+---
+
+## Focus Areas
+
+- Web application security
+- Advanced recon automation
+- API security testing
+- Authentication & session security
+- Red team tooling development
 
 ---
 
 ## Recognition
 
-- NASA Hall of Fame Recognition
-- Hackathon participant & builder
-- Active in security learning communities
-
+- NASA-related recognition (Hall of Fame mention)
+- Hackathon participation & project building
+- Active contributor in security learning communities
 
 ---
 
-## Current Focus
+## Current Direction
 
-- Web application security
-- Advanced recon workflows
-- Authentication & session security
-- API security testing
-- Red team tooling
+Moving from:
+> Manual recon → Automated recon → Intelligent security tooling
 
 ---
 
 ## Connect
 
-- GitHub: `github.com/yourusername`
-- LinkedIn: `linkedin.com/in/rajiv-shrestha-712b2630a`
+- GitHub: github.com/yourusername
+- LinkedIn: linkedin.com/in/rajiv-shrestha-712b2630a
 
 ---
 
-> “Started with development. Now learning how attackers think.”
+> “I don’t just use security tools — I build them.”
