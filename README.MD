@@ -1,57 +1,77 @@
 # Rajiv Shrestha
 
-`Security Researcher • Full-Stack Developer`
-
+Security Researcher | Full-Stack Developer  
 Kathmandu, Nepal
 
 ---
 
-## About
+## Research Focus
 
-Security researcher and full-stack developer focused on understanding and building secure web systems.
+I analyze web applications to understand security weaknesses, attack paths, and system design flaws.
 
-Interested in:
-- Web application security
-- Bug bounty research (VDP & real-world programs)
-- Attack surface & recon analysis
-- Secure full-stack development
-
-Currently learning through:
-- PortSwigger Web Security Academy
-- TryHackMe
-- Bug bounty platforms
-- Open-source security tooling
-
----
-
-## Security
-
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F36F24?style=flat-square&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
-
----
-
-## Development
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
----
-
-## Focus
-
-- Web application security
-- Bug bounty research
+Primary interests:
+- Web application security (OWASP methodology)
+- API security testing
+- Attack surface mapping
+- Bug bounty & vulnerability research
 - Secure system design
-- Full-stack development
 
 ---
 
-> “Security and development are two sides of the same system.”
+## Methodology
+
+- Recon & asset discovery
+- Endpoint enumeration
+- API behavior analysis
+- Security misconfiguration testing
+- Exploitation understanding (ethical research)
+
+---
+
+## Technical Stack
+
+Burp Suite • Nmap • Wireshark • Linux • Bash  
+React • Next.js • TypeScript • Firebase • Supabase
+
+---
+
+## Security & Engineering Work
+
+### OSaaS – Open Security as a Service
+Security automation platform for ethical hacking workflows and isolated testing environments.
+
+### SAFE-MCP Framework (Contributor)
+Improved vulnerability detection rules and security documentation structure.
+
+---
+
+## Full-Stack Projects
+
+### Warehouse Navigator
+Secure inventory and warehouse management system.
+
+### NepalExplore (AI Hackathon Project)
+AI-based tourism optimization platform with safety and forecasting features.
+
+### Mitra Smart
+AI document validation and automation system.
+
+### Seekha Nepal
+AI chatbot-based learning platform.
+
+### Rent A Construction
+Marketplace platform for construction equipment rental.
+
+---
+
+## Recognition
+
+- NASA Hall of Fame (Contribution)
+- FutureFront AI Innovation Lab Participant
+- Multiple hackathon builds in AI + Security domain
+
+---
+
+## Philosophy
+
+> “Security is not about preventing attacks — it’s about understanding them deeply enough to design better systems.”
